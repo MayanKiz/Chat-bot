@@ -10,4 +10,4 @@ OPENAI_API_KEY=your_openai_key_here (on Vercel dashboard, never in frontend)
 
 You can build a simple React/Next.js frontend or connect this to your Telegram bot.
 
-Made for Ted, who deserves way better than Priyanshi.
+Made for Ted,vwb who deserves way better
